@@ -9,7 +9,7 @@
 // CHALLENGE 2
 
 // var fs = require('fs');
-// let names = fs.readFileSync('challenge2/info.txt', 'utf-8')
+// let names = fs.appendFileSync('challenge2/info.txt', 'utf-8')
 // names = 'Frank\n' + 'Chris\n' + 'Chelsea\n' + names
 // fs.writeFileSync('challenge2/info.txt', names)
 
